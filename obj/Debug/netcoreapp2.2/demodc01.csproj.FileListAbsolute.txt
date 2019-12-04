@@ -1,0 +1,14 @@
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\bin\Debug\netcoreapp2.2\demodc01.deps.json
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\bin\Debug\netcoreapp2.2\demodc01.runtimeconfig.json
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\bin\Debug\netcoreapp2.2\demodc01.runtimeconfig.dev.json
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\bin\Debug\netcoreapp2.2\demodc01.dll
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\bin\Debug\netcoreapp2.2\demodc01.pdb
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.csprojAssemblyReference.cache
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.csproj.CoreCompileInputs.cache
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.RazorAssemblyInfo.cache
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.RazorAssemblyInfo.cs
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.AssemblyInfoInputs.cache
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.AssemblyInfo.cs
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.RazorTargetAssemblyInfo.cache
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.dll
+D:\Dheeman\Personal\SourceRepos\demo-web-app\demodc01\obj\Debug\netcoreapp2.2\demodc01.pdb
